@@ -1,0 +1,17 @@
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\luaformatter.exe.config
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\luaformatter.exe.manifest
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\luaformatter.application
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\luaformatter.exe
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\luaformatter.pdb
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\FastColoredTextBox.dll
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\Ionic.Zip.dll
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\bin\x86\Debug\FastColoredTextBox.xml
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.Form1.resources
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.matchingwindow.resources
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.Properties.Resources.resources
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.csproj.GenerateResource.Cache
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.exe.manifest
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.application
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.exe
+C:\Users\daniel\documents\visual studio 2013\Projects\luaformatter\luaformatter\obj\x86\Debug\luaformatter.pdb
